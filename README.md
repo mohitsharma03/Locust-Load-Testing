@@ -1,5 +1,6 @@
 
 Step1: Install locust on your system:
+
 pip3 install locust
 
 Step2: Start your flask app wherever its deployed:
